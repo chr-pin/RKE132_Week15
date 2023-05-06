@@ -1,0 +1,15 @@
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\Week15_OOP_files.csproj.AssemblyReference.cache
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\Week15_OOP_files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\Week15_OOP_files.AssemblyInfoInputs.cache
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\Week15_OOP_files.AssemblyInfo.cs
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\Week15_OOP_files.csproj.CoreCompileInputs.cache
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\bin\Debug\net6.0\Week15_OOP_files.exe
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\bin\Debug\net6.0\Week15_OOP_files.deps.json
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\bin\Debug\net6.0\Week15_OOP_files.runtimeconfig.json
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\bin\Debug\net6.0\Week15_OOP_files.dll
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\bin\Debug\net6.0\Week15_OOP_files.pdb
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\Week15_OOP_files.dll
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\refint\Week15_OOP_files.dll
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\Week15_OOP_files.pdb
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\Week15_OOP_files.genruntimeconfig.cache
+C:\Users\ChristianPintson\source\repos\Week15_OOP_files\Week15_OOP_files\obj\Debug\net6.0\ref\Week15_OOP_files.dll
